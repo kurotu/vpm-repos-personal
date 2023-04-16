@@ -9,7 +9,7 @@
     },
     "description":"Experimental listing of VRChat packages",
     "infoLink":{
-        "url":"https://kurotu.github.io/vpm-repos-personal",
+        "url":"https://github.com/kurotu/vpm-repos-personal",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
