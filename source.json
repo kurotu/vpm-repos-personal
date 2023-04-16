@@ -1,15 +1,15 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://kurotu.github.io/vpm-repos-personal/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"kurotu",
+        "url":"https://github.com/kurotu"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Experimental listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://kurotu.github.io/vpm-repos-personal",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
